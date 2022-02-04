@@ -1,9 +1,7 @@
 <h2> Hey there! I'm Abdurahim.</h2>
 
 
-  
-<br/>
-
+ 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 I’m currently working on INLAB

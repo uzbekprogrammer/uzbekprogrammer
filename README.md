@@ -37,10 +37,8 @@
 <code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/json.svg"></code>
 <code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg"></code>    
 
-
-<a href="https://github.com/uzbekprogrammer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uzbekprogrammer&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzbekprogrammer&layout=compact" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uzbekprogrammer&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzbekprogrammer&show_icons=true&theme=react )
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

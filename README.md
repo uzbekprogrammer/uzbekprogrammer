@@ -30,12 +30,12 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg"></code>
-<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg"></code>
-<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg"></code>
-<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg"></code>
-<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/json.svg"></code>
-<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/github.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/postgresql.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/django.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/json.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/flask.svg"></code>    
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uzbekprogrammer&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzbekprogrammer&show_icons=true&theme=react )

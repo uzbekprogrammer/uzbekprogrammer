@@ -4,7 +4,7 @@
  
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on INLAB
+- 🔭 I’m currently working on own business 
 - 🌱 I’m currently learning Data Science and AI
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

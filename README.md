@@ -49,7 +49,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 
-<a href="https://linkedin.com/in/abdurahim-mahmudov-6ab435220">
+<a href="https://linkedin.com/in/uzbekprogrammer">
   <img align="left" alt="Abdurakhim's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/uzbekprogrammer">

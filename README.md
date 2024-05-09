@@ -55,7 +55,7 @@
 <a href="https://github.com/uzbekprogrammer">
   <img align="left" alt="Abdurakhim's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/Abdurahim_Mahmudov">
+<a href="https://t.me/the_abdurakhim">
   <img align="left" alt="Abdurakhim's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/the_abdurakhim/">

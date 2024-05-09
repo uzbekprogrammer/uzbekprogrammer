@@ -42,7 +42,8 @@
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/django.svg"></code>-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uzbekprogrammer&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uzbekprogrammer&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzbekprogrammer&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uzbekprogrammer&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
